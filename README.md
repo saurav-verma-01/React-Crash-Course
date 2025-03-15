@@ -6,3 +6,5 @@
 4 - Applying Styles in React
 5 - Tailwind Css
 6 - React State - useState Hooks
+7 - useEffect Hook
+8 - Conditional Rendering
